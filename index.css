@@ -1,0 +1,11 @@
+header {
+    background-image: url(../rogaroga/image/restaurant.jpg);
+    height: 400px;
+    width: 100%;
+    margin: 0%;
+    align-items: center;
+
+    display: flex;
+    justify-content: center;
+
+}
